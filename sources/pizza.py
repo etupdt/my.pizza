@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'vulcain': {
+        'ingredients': {'gorgonzola': 3, 'pepper': 4, 'onion': 3},
+        'price': 14,
     }
 }
