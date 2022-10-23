@@ -63,5 +63,11 @@ RECIPES = {
     'vulcain': {
         'ingredients': {'gorgonzola': 3, 'pepper': 4, 'onion': 3},
         'price': 14,
-    }
+        'sauce': 'cream'
+    },
+    'mediterranea': {
+        'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
+        'price': 11,
+        'sauce': 'tomato'
+    },
 }
